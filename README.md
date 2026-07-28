@@ -18,14 +18,11 @@ My background spans enterprise networking, high availability systems, and cloud 
 I specialize in designing, troubleshooting, and maintaining resilient infrastructure — from Windows Failover Clustering to Azure-based disaster recovery solutions.
 
 
-🎓 Certifications
-
-
-✅ Microsoft Certified: Azure Fundamentals (AZ-900)
-✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
-✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
+## 🎓 Certifications
+✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
+✅ Microsoft Certified: Azure AI Fundamentals (AI-900)  
+✅ Microsoft Certified: Azure Administrator Associate (AZ-104)  
 ✅ Cisco Certified Network Associate (CCNA)
-
 
 
 🛠️ Technical Skills
