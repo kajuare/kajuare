@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Hyper--V-5C2D91?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a Cloud Infrastructure & Technical Support Engineer with 10+ years of experience across hybrid on-premises environments and Microsoft Azure cloud platforms. 
+Cloud Infrastructure & Technical Support Engineer with 10+ years of experience across hybrid on-premises environments and Microsoft Azure cloud platforms. 
 My background spans enterprise networking, high availability systems, and cloud infrastructure support — with hands-on experience gained at Microsoft, Cisco and NetApp TAC.
 
 I specialize in designing, troubleshooting, and maintaining resilient infrastructure — from Windows Failover Clustering to Azure-based disaster recovery solutions.
