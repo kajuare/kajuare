@@ -22,7 +22,7 @@ I specialize in designing, troubleshooting, and maintaining resilient infrastruc
 
 <p align="center">
   <img src="images/linux-original.svg" width="60">
-  <img src="images/azure-original-wordmark.svg" width="60">
+  <img src="images/azure-original-wordmark.svg" width="80">
 </p>
 
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
