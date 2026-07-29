@@ -19,6 +19,12 @@ I specialize in designing, troubleshooting, and maintaining resilient infrastruc
 
 
 ## 🎓 Certifications
+
+<p align="center">
+  <img src="images/linux-original.svg" width="60">
+  <img src="images/azure-original-wordmark.svg" width="60">
+</p>
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
 ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)  
 ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)  
